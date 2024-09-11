@@ -1,0 +1,11 @@
+Here's the content converted to Markdown format:
+
+## Please use the following options to direct your request:
+
+- **Training & Certification Inquiries:** [Contact Training](https://training.linuxfoundation.org/about/contact-us/)
+
+- **Exam session issues or inquiries:** Please log in to your LF account and [open a ticket with the dedicated support team](https://jira.linuxfoundation.org/plugins/servlet/desk/portal/15)
+
+- **Events Inquiries:** [Contact Events Team](https://events.linuxfoundation.org/about/contact/)
+
+- **For any other inquiries** not related to your LF login account: [General Contact](https://www.linuxfoundation.org/about/contact)

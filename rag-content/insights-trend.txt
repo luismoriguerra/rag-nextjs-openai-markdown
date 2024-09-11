@@ -1,0 +1,50 @@
+LFX Insights Trending Pages
+1. CNCF GitHub Overview
+Page: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview/github
+
+2. CNCF Foundation Page
+Page: https://insights.lfx.linuxfoundation.org/foundation/cncf
+
+3. CNCF Project Health Reports
+Page: https://insights.lfx.linuxfoundation.org/foundation/cncf/reports/project-health
+
+4. LF Decentralized Trust GitHub Overview
+Page: https://insights.lfx.linuxfoundation.org/foundation/lf-decentralized-trust/overview/github
+
+5. HYP Foundation GitHub Overview
+Page: https://insights.lfx.linuxfoundation.org/foundation/hyp/overview/github
+
+6. Sonic Fund Mailing List
+Page: https://insights.lfx.linuxfoundation.org/foundation/sonicfund/mailing-list
+
+7. CNCF Projects Page
+Page: https://insights.lfx.linuxfoundation.org/foundation/cncf/projects
+
+8. Sonic Fund GitHub Overview
+Page: https://insights.lfx.linuxfoundation.org/foundation/sonicfund/overview/github
+
+9. CNCF Overview Page
+Page: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview
+
+10. LF AI Foundation Page
+Page: https://insights.lfx.linuxfoundation.org/foundation/lf-ai-foundation
+
+11. PyTorch GitHub Overview
+Page: https://insights.lfx.linuxfoundation.org/foundation/pytorch/overview/github
+
+12. CNCF Velocity Page
+Page: https://insights.lfx.linuxfoundation.org/foundation/cncf/velocity
+
+13. ZEP Foundation GitHub Overview
+Page: https://insights.lfx.linuxfoundation.org/foundation/zep/overview/github
+
+14. OJSF Foundation Page
+Page: https://insights.lfx.linuxfoundation.org/foundation/ojsf
+
+15. ORAN Foundation GitHub Overview
+Page: https://insights.lfx.linuxfoundation.org/foundation/oran/overview/github
+
+Additional Information:
+Data source: https://insights.lfx.linuxfoundation.org/
+"new" in the Change field indicates a newly trending page
+Negative numbers in the Change field indicate a decrease in

@@ -1,0 +1,29 @@
+1. https://openprofile.dev/ - Homepage
+   The main landing page of the website.
+
+2. https://openprofile.dev/profile - User Profile
+   Where users can view their personal profile information.
+
+3. https://openprofile.dev/myrewards/coupons - Rewards Coupons
+   A page displaying available coupons or discounts for users.
+
+4. https://openprofile.dev/myrewards/transactions - Reward Transactions
+   Shows a history of reward-related transactions for the user.
+
+5. https://openprofile.dev/edit/profile - Edit Profile
+   Allows users to modify their profile information.
+
+6. https://openprofile.dev/my-work-history - Work History
+   Displays the user's professional or work-related history.
+
+7. https://openprofile.dev/my-insights - User Insights
+   Provides personalized insights or analytics for the user.
+
+8. https://openprofile.dev/profile/kzaman - Specific User Profile
+   A public or shared profile page for a user named "kzaman".
+
+9. https://openprofile.dev/edit/linux-email - Edit Linux Email
+   A page for editing Linux-related email settings or preferences.
+
+10. https://openprofile.dev/myenrollments - User Enrollments
+    Shows courses, programs, or services the user is enrolled in.
